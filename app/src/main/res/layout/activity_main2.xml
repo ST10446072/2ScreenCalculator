@@ -18,7 +18,8 @@
         android:id="@+id/btnAddToList"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/addList" />
+        android:text="@string/addList"
+        android:textSize="20sp" />
 
     <TextView
         android:id="@+id/tvOutput"
@@ -29,31 +30,36 @@
         android:id="@+id/btnTotal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/total" />
+        android:text="@string/total"
+        android:textSize="20sp" />
 
     <Button
         android:id="@+id/btnHigh"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/high" />
+        android:text="@string/high"
+        android:textSize="20sp" />
 
     <Button
         android:id="@+id/btnLow"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/low" />
+        android:text="@string/low"
+        android:textSize="20sp" />
 
     <Button
         android:id="@+id/btnAverage"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/average" />
+        android:text="@string/average"
+        android:textSize="20sp" />
 
     <Button
         android:id="@+id/btnClear"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/clear" />
+        android:text="@string/clear"
+        android:textSize="20sp" />
 
     <TextView
         android:id="@+id/tvOutput2"
